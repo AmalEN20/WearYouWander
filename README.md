@@ -53,9 +53,9 @@ The user will then be presented with the current weather conditions for the sear
 <img src="./Assets/img/landingPage.png">
 
 ### Links
-Deployed Application: [https://averycaldwell.github.io/WearYouWander/](https://averycaldwell.github.io/WearYouWander/)
+Deployed Application: https://amalen20.github.io/WearYouWander/
 
-GitHib Repository: [https://github.com/AveryCaldwell/WearYouWander](https://github.com/AveryCaldwell/WearYouWander)
+GitHib Repository: https://github.com/AmalEN20/WearYouWander
 
 
 ### Authors
